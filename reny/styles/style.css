@@ -1,0 +1,27 @@
+html {
+	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Shadows Into Light', cursive;
+	background-color: #BAD4FC;
+}
+p {
+	font-size: 16px;    
+  	line-height: 1;
+  	letter-spacing: 1px;
+}
+h1 {
+  	font-size: 40px;
+  	text-align: center;
+  	color: #3F2CF1;
+  	text-shadow: 3px 3px 1px black;
+}
+body {
+  width: 600px;
+  margin: auto auto;
+  background-color: #F1AE3B;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
